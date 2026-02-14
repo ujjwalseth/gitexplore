@@ -1,4 +1,4 @@
 install 
-sdjkfskdjf
-sdkjfsjfkls
-git 
+this file has install instruction 
+
+
